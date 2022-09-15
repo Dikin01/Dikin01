@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Dmitrii <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="auto"/></h1>
 
-<h3>My major:</h3><p> Full-Stack Web Developer</p>
+<h3>My major: Full-Stack Web Developer</h3>
 <h2></h2>
 
 <h3>My favorite tools:</h3>
@@ -9,6 +9,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 <img src="https://yt3.ggpht.com/Pbl5vVTxYu_brTBznC33fX2tQ_10H98Mn_OEFL7oIrOqV2FKyLQiWAbFUxWW_Oc9q8eZL9paSQ=s900-c-k-c0x00ffffff-no-rj" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://avatars.githubusercontent.com/u/2092016?s=200&v=4" title="xUnit" alt="xUnit" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="Amazon Web Services" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp;
